@@ -1,0 +1,7 @@
+**/~$*
+**/.settings
+**/.classpath
+**/target
+**/.gitignore.bak
+**/~*
+**/*bpmn2d
